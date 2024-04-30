@@ -1,0 +1,26 @@
+body {
+    color: #484349;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.basicinfo{
+    font-size: 100%;
+    font-weight: 300; 
+    color:#484349;
+    text-align: right;   
+}
+
+.tabla {
+    border-color:gray;
+    border-style: solid;
+    border-width: medium;
+    border: solid gray;
+}
+
+.img {
+    
+}
+
+
+
+
+
